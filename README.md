@@ -1,5 +1,5 @@
 # springboot-rest-with-security
-A beginner spring boot application creating Rest endpoint with security
+A simple spring boot application having Rest endpoint secured with spring security
 
 In this example I will explain how to build Restful Webservices step by step from ground using Spring boot and Java.
 
